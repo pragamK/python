@@ -8,5 +8,5 @@ librraies:
 folium
 
 platform
-Google colab
+Google colab, vs code
 
